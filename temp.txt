@@ -1,0 +1,9 @@
+{
+    
+    "custName": "Priya",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "country": "India",
+    "phoneNo": "8379852346",
+    "custEmail": "priya@gmail.com"
+}
